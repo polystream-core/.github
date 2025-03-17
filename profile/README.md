@@ -27,7 +27,7 @@ PolyStream is a **mobile-first yield aggregation platform built for Web2 users n
 ### 🛡️ Smart Yield Aggregation
 - **Automatic allocation** across multiple protocols (Aave, LayerBank, SyncSwap, Compound)
 - **Risk-adjusted returns** with portfolios tailored to your risk profile
-- **Dynamic rebalancing** as market conditions change
+- **Dynamic yield optimizing** as market conditions change, select best pools and automatically switches pools
 - **Protocol diversification** to reduce single-protocol risk
 
 ## 🔄 How It Works
@@ -67,8 +67,7 @@ We prioritize the safety of user funds:
 
 - **Multi-layered security** with strict protocol selection criteria
 - **Conservative allocation strategy** favoring established protocols
-- **Regular security audits** and continuous monitoring
-- **Transparent risk reporting** in simple, understandable terms
+- **Stablepools with stablecoins** minimising market volitility impacts.
 
 ## 💼 Supported Protocols
 
@@ -83,8 +82,8 @@ Our platform currently integrates with:
 
 ## 🌐 Supported Networks
 
-- Base
 - Scroll
+- Base
 - More coming soon!
 
 ## 🤝 Join Our Community

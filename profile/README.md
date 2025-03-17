@@ -7,9 +7,8 @@
 
 PolyStream is a **mobile-first yield aggregation platform built for Web2 users new to DeFi**. We eliminate technical barriers that prevent mainstream adoption through intuitive UX and powerful automation.
 
-<div align="center">
-  <img src="https://www.polystream.xyz/logo.png" alt="PolyStream Platform" width="250">
-</div>
+<img width="528" alt="Screenshot 2025-03-18 at 5 59 13 AM" src="https://github.com/user-attachments/assets/896bdffe-a1a4-45bf-8411-e0a553cb8dc1" />
+
 
 ## 🚀 Key Features
 
@@ -42,6 +41,8 @@ PolyStream is a **mobile-first yield aggregation platform built for Web2 users n
 
 ## 🏗️ Technical Architecture
 
+![image](https://github.com/user-attachments/assets/4c84f306-382f-40d8-9f0d-28157b403a0b)
+
 PolyStream leverages cutting-edge blockchain technology while abstracting away complexity:
 
 ### Core Features
@@ -54,6 +55,11 @@ PolyStream leverages cutting-edge blockchain technology while abstracting away c
 - **Combined Vault System**: Secure asset management with dynamic allocation
 - **Risk Management**: Protocol monitoring with adaptive strategy adjustment
 - **Chainlink Automation**: Powering autonomous yield optimization and harvesting
+
+### User Sequence Diagram:
+
+![image](https://github.com/user-attachments/assets/fb45d45d-1ff7-480e-8fe8-205b4080a98a)
+
 
 ## 🔐 Security First
 
